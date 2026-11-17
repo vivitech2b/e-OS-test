@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:repository xmlns:ns2="http://schemas.android.com/repository/android/common/02" xmlns:ns12="http://schemas.android.com/sdk/android/repo/sys-img2/03">
+  <localPackage path="system-images;android-36;lineage;x86_64" obsolete="false">
+    <type-details xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns12:sysImgDetailsType">
+      <api-level>36</api-level>
+      <base-extension>true</base-extension>
+      <tag>
+        <id>lineage</id>
+        <display>LineageOS</display>
+      </tag>
+      <abi>x86_64</abi>
+    </type-details>
+    <revision>
+      <major>1</major>
+    </revision>
+    <display-name>LineageOS x86_64 System Image</display-name>
+  </localPackage>
+</ns2:repository>
